@@ -11,7 +11,7 @@ const fontInter = Inter({
 
 export const metadata: Metadata = {
   title: "Otakudesu",
-  description: "Build by rizkyhaksono",
+  description: "Build by Aortadev",
 };
 
 export default function RootLayout({
