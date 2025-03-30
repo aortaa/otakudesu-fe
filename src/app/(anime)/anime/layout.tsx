@@ -3,7 +3,7 @@ import { Metadata } from "next/types";
 
 export const metadata: Metadata = {
   title: "Search Anime | Otakudesu",
-  description: "Anime Page Otakudesu. Build by Rizky Haksono",
+  description: "Anime Page Otakudesu. Build by Aortadev",
 };
 
 export default function AnimeSearchLayout({
