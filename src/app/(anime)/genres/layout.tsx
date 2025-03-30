@@ -3,7 +3,7 @@ import { Metadata } from "next/types";
 
 export const metadata: Metadata = {
   title: "Genres | Otakudesu",
-  description: "Genres Page Otakudesu. Build by Rizky Haksono",
+  description: "Genres Page Otakudesu. Build by Aortadev",
 };
 
 export default function GenreLayout({
